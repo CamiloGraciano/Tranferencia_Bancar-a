@@ -44,7 +44,7 @@ El proceso consta de 5 pasos
 
 ***
 
-#### [Confirmación de detalles]  Antes de proceder con el pago, se presenta un resumen claro y conciso de los detalles del pago, incluyendo el monto, el destinatario y cualquier otro dato relevante.
+#### [Confirmación de detalles]  Antes de proceder con el pago, se presenta un resumen claro y conciso de los detalles del pago, incluyendo el monto, el destinatario y cualquier otro dato relevante (Con posibilidad de volver a editar los datos, devolviendo al 2do paso).
 ![Image](https://github.com/user-attachments/assets/215bf24b-1af5-4a07-9947-3ade4b5d0a0e)
 
 
